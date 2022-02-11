@@ -26,7 +26,7 @@ How
 
 This project takes all the required input values and produces the output based on that.
  # Learning Resources
- 
+
 1.W3School
 
 2.geeksforgeeks
