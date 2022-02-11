@@ -1,7 +1,0 @@
-The main features of this project include basic file handling operations; you will learn how to add, list, modify and delete data to/from file.
-Currently, listed below are the only features that make up this project, but you can add new features as you like to make this project a better one!
-
-1.Add record
-2.List record
-3.Modify record
-4.Delete record
