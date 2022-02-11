@@ -2,6 +2,6 @@
 
 |     Folder    |         Desscription                   |
 |----------     |----------------------------------------|
-|      inc      |     Contains all the header files      |
-|      src      |     Contains all the source code files |
-|      test     |     Contains all the unit testing files|
+|      src      |     Contains all  source code files    |
+|      test     |     Contains all  unit testing files   |
+|      inc      |     Contains all  header files         |
