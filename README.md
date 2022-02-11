@@ -34,4 +34,4 @@ This project takes all the required input values and produces the output based o
 3.JavaTPoint
 
 
-![Uploading Screenshot (465).png…]()
+![1stimage](https://user-images.githubusercontent.com/63436180/153611591-cb96111d-b152-4696-a1f8-8bcaff7723b9.jpg)
