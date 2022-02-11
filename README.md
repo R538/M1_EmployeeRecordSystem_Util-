@@ -25,3 +25,10 @@ This hectic work of maintainig the records of thousands of employees is like eve
 How
 
 This project takes all the required input values and produces the output based on that.
+ # Learning Resources
+ 
+1.W3School
+
+2.geeksforgeeks
+
+3.JavaTPoint
