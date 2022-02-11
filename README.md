@@ -33,5 +33,8 @@ This project takes all the required input values and produces the output based o
 
 3.JavaTPoint
 
+# Codacy
 
 ![1stimage](https://user-images.githubusercontent.com/63436180/153611591-cb96111d-b152-4696-a1f8-8bcaff7723b9.jpg)
+
+![2ndimage](https://user-images.githubusercontent.com/63436180/153614140-891cbb8d-6855-4baf-af0f-d8da8fd5ebc0.jpg)
