@@ -4,7 +4,7 @@ PROJECT_NAME = Employee-Record-System
 SRC = main.c\
 src/function.c
 
-
+#path
 #Path to the header file
 INC_HEADER = inc
 
