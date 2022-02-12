@@ -7,6 +7,12 @@
 
 [![Unit Testing - Unity](https://github.com/R538/M1_EmployeeRecordSystem_Util-/actions/workflows/unity.yml/badge.svg)](https://github.com/R538/M1_EmployeeRecordSystem_Util-/actions/workflows/unity.yml)
 
+# Codacy
+
+![1stimage](https://user-images.githubusercontent.com/63436180/153611591-cb96111d-b152-4696-a1f8-8bcaff7723b9.jpg)
+
+![2ndimage](https://user-images.githubusercontent.com/63436180/153614140-891cbb8d-6855-4baf-af0f-d8da8fd5ebc0.jpg)
+
 # Employee Record System
 
 The mini project Employee Record System, a console application has been made using the c programming language. In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, search the employees. This application based on file handling in C.
@@ -36,12 +42,7 @@ This project takes all the required input values and produces the output based o
 
 1.W3School
 
-2.geeksforgeeks
+2.Geeksforgeeks
 
-3.JavaTPoint
+3.Javatpoint
 
-# Codacy
-
-![1stimage](https://user-images.githubusercontent.com/63436180/153611591-cb96111d-b152-4696-a1f8-8bcaff7723b9.jpg)
-
-![2ndimage](https://user-images.githubusercontent.com/63436180/153614140-891cbb8d-6855-4baf-af0f-d8da8fd5ebc0.jpg)
