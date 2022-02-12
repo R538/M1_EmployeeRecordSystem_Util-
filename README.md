@@ -1,5 +1,8 @@
 # M1_EmployeeRecordSystem_Util-
 
+# Code Grade
+[![CI](https://github.com/R538/M1_EmployeeRecordSystem_Util-/actions/workflows/main.yml/badge.svg)](https://github.com/R538/M1_EmployeeRecordSystem_Util-/actions/workflows/main.yml)
+
 # Employee Record System
 
 The mini project Employee Record System, a console application has been made using the c programming language. In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, search the employees. This application based on file handling in C.
