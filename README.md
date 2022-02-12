@@ -2,6 +2,7 @@
 
 # Code Grade
 [![CI](https://github.com/R538/M1_EmployeeRecordSystem_Util-/actions/workflows/main.yml/badge.svg)](https://github.com/R538/M1_EmployeeRecordSystem_Util-/actions/workflows/main.yml)
+[![Cppcheck](https://github.com/R538/M1_EmployeeRecordSystem_Util-/actions/workflows/cpp.yml/badge.svg)](https://github.com/R538/M1_EmployeeRecordSystem_Util-/actions/workflows/cpp.yml)
 
 # Employee Record System
 
